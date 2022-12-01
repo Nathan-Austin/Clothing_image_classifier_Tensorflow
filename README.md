@@ -20,4 +20,7 @@ You can visit the online version running on ![Kaggle.com ](https://www.kaggle.co
 
 if you wish you can clone the repo, pip install requirements.txt and run the notebook ( non GPU notebooks beware) 
 
-Acknowledgements ![alexeygrigorev](https://github.com/alexeygrigorev/clothing-dataset-small)
+Acknowledgements [alexeygrigorev](https://github.com/alexeygrigorev/clothing-dataset-small) who provided the data which has been label.
+
+To do: Train the model on the large data set
+       Begin running the model on a spider program to test live image recongnition. 
